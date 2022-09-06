@@ -4,8 +4,8 @@
     2022-09-06:
       Label: Syllabus
 #      Video: "https://youtu.be/U6M0m9c9_Js"
-      # Slides:
-      #   - {Black Box Machine Learning: "https://bloomberg.github.io/foml/#lecture-1-black-box-machine-learning"}
+      Slides:
+        - {Brightspace Link: "https://brightspace.nyu.edu/d2l/le/lessons/219102/topics/7554842"}
       #   - {Evaluating Classifiers: "https://bloomberg.github.io/foml/#lecture-14-performance-evaluation"}
       # Notes:
       #   - {Géron's Machine Learning Landscape: "https://github.com/ageron/handson-ml/blob/master/01_the_machine_learning_landscape.ipynb"}
