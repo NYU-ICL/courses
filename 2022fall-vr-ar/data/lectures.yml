@@ -6,6 +6,25 @@
 #      Video: "https://youtu.be/U6M0m9c9_Js"
       Slides:
         - {Brightspace Link: "https://brightspace.nyu.edu/d2l/le/lessons/219102/topics/7554842"}
+
+-
+  Title: Week 2
+  Events:
+    2022-09-13:
+      Label: Algebra
+#      Video: "https://youtu.be/U6M0m9c9_Js"
+      Slides:
+        - {Brightspace Link: "https://brightspace.nyu.edu/d2l/le/lessons/219102/topics/7597930"}       
+
+
+-
+  Title: Week 2
+  Events:
+    2022-09-13:
+      Label: Transformation
+#      Video: "https://youtu.be/U6M0m9c9_Js"
+      Slides:
+        - {Brightspace Link: "https://brightspace.nyu.edu/d2l/le/lessons/219102/topics/7597937"}             
       #   - {Evaluating Classifiers: "https://bloomberg.github.io/foml/#lecture-14-performance-evaluation"}
       # Notes:
       #   - {Géron's Machine Learning Landscape: "https://github.com/ageron/handson-ml/blob/master/01_the_machine_learning_landscape.ipynb"}
